@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapiladh2468
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m experienced developer for front end in web developer
+- 🌱 I accquire knowledge in programming language like Javascript,Css,Java.
 - 📫 How to reach me [here](mailto:johnyheaven7@gmail.com)
 
 <!---
